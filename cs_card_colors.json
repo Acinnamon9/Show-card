@@ -1,0 +1,2097 @@
+{
+  "program": {
+    "light": "oklch(0.955 0.018 145)",
+    "dark": "oklch(0.180 0.028 145)",
+    "accent": "oklch(0.580 0.140 145)"
+  },
+  "source_code": {
+    "light": "oklch(0.959 0.030 282.51)",
+    "dark": "oklch(0.189 0.053 282.51)",
+    "accent": "oklch(0.599 0.203 282.51)"
+  },
+  "machine_code": {
+    "light": "oklch(0.963 0.042 60.02)",
+    "dark": "oklch(0.198 0.038 60.02)",
+    "accent": "oklch(0.618 0.194 60.02)"
+  },
+  "bytecode": {
+    "light": "oklch(0.967 0.026 197.52)",
+    "dark": "oklch(0.207 0.063 197.52)",
+    "accent": "oklch(0.637 0.185 197.52)"
+  },
+  "compiler": {
+    "light": "oklch(0.971 0.038 335.03)",
+    "dark": "oklch(0.216 0.048 335.03)",
+    "accent": "oklch(0.656 0.176 335.03)"
+  },
+  "interpreter": {
+    "light": "oklch(0.975 0.022 112.54)",
+    "dark": "oklch(0.225 0.033 112.54)",
+    "accent": "oklch(0.675 0.167 112.54)"
+  },
+  "assembler": {
+    "light": "oklch(0.979 0.034 250.05)",
+    "dark": "oklch(0.234 0.058 250.05)",
+    "accent": "oklch(0.694 0.158 250.05)"
+  },
+  "linker": {
+    "light": "oklch(0.983 0.018 27.55)",
+    "dark": "oklch(0.180 0.043 27.55)",
+    "accent": "oklch(0.713 0.149 27.55)"
+  },
+  "loader": {
+    "light": "oklch(0.955 0.030 165.06)",
+    "dark": "oklch(0.189 0.028 165.06)",
+    "accent": "oklch(0.580 0.140 165.06)"
+  },
+  "executable": {
+    "light": "oklch(0.959 0.042 302.57)",
+    "dark": "oklch(0.198 0.053 302.57)",
+    "accent": "oklch(0.599 0.203 302.57)"
+  },
+  "runtime": {
+    "light": "oklch(0.963 0.026 80.08)",
+    "dark": "oklch(0.207 0.038 80.08)",
+    "accent": "oklch(0.618 0.194 80.08)"
+  },
+  "syntax": {
+    "light": "oklch(0.967 0.038 217.59)",
+    "dark": "oklch(0.216 0.063 217.59)",
+    "accent": "oklch(0.637 0.185 217.59)"
+  },
+  "semantics": {
+    "light": "oklch(0.971 0.022 355.09)",
+    "dark": "oklch(0.225 0.048 355.09)",
+    "accent": "oklch(0.656 0.176 355.09)"
+  },
+  "variable": {
+    "light": "oklch(0.975 0.034 132.6)",
+    "dark": "oklch(0.234 0.033 132.6)",
+    "accent": "oklch(0.675 0.167 132.6)"
+  },
+  "constant": {
+    "light": "oklch(0.979 0.018 270.11)",
+    "dark": "oklch(0.180 0.058 270.11)",
+    "accent": "oklch(0.694 0.158 270.11)"
+  },
+  "literal": {
+    "light": "oklch(0.983 0.030 47.62)",
+    "dark": "oklch(0.189 0.043 47.62)",
+    "accent": "oklch(0.713 0.149 47.62)"
+  },
+  "identifier": {
+    "light": "oklch(0.955 0.042 185.12)",
+    "dark": "oklch(0.198 0.028 185.12)",
+    "accent": "oklch(0.580 0.140 185.12)"
+  },
+  "expression": {
+    "light": "oklch(0.959 0.026 322.63)",
+    "dark": "oklch(0.207 0.053 322.63)",
+    "accent": "oklch(0.599 0.203 322.63)"
+  },
+  "statement": {
+    "light": "oklch(0.963 0.038 100.14)",
+    "dark": "oklch(0.216 0.038 100.14)",
+    "accent": "oklch(0.618 0.194 100.14)"
+  },
+  "operator": {
+    "light": "oklch(0.967 0.022 237.65)",
+    "dark": "oklch(0.225 0.063 237.65)",
+    "accent": "oklch(0.637 0.185 237.65)"
+  },
+  "operand": {
+    "light": "oklch(0.971 0.034 15.16)",
+    "dark": "oklch(0.234 0.048 15.16)",
+    "accent": "oklch(0.656 0.176 15.16)"
+  },
+  "assignment": {
+    "light": "oklch(0.975 0.018 152.66)",
+    "dark": "oklch(0.180 0.033 152.66)",
+    "accent": "oklch(0.675 0.167 152.66)"
+  },
+  "condition": {
+    "light": "oklch(0.979 0.030 290.17)",
+    "dark": "oklch(0.189 0.058 290.17)",
+    "accent": "oklch(0.694 0.158 290.17)"
+  },
+  "branch": {
+    "light": "oklch(0.983 0.042 67.68)",
+    "dark": "oklch(0.198 0.043 67.68)",
+    "accent": "oklch(0.713 0.149 67.68)"
+  },
+  "loop": {
+    "light": "oklch(0.955 0.026 205.19)",
+    "dark": "oklch(0.207 0.028 205.19)",
+    "accent": "oklch(0.580 0.140 205.19)"
+  },
+  "iteration": {
+    "light": "oklch(0.959 0.038 342.69)",
+    "dark": "oklch(0.216 0.053 342.69)",
+    "accent": "oklch(0.599 0.203 342.69)"
+  },
+  "recursion": {
+    "light": "oklch(0.963 0.022 120.2)",
+    "dark": "oklch(0.225 0.038 120.2)",
+    "accent": "oklch(0.618 0.194 120.2)"
+  },
+  "function": {
+    "light": "oklch(0.967 0.034 257.71)",
+    "dark": "oklch(0.234 0.063 257.71)",
+    "accent": "oklch(0.637 0.185 257.71)"
+  },
+  "procedure": {
+    "light": "oklch(0.971 0.018 35.22)",
+    "dark": "oklch(0.180 0.048 35.22)",
+    "accent": "oklch(0.656 0.176 35.22)"
+  },
+  "method": {
+    "light": "oklch(0.975 0.030 172.73)",
+    "dark": "oklch(0.189 0.033 172.73)",
+    "accent": "oklch(0.675 0.167 172.73)"
+  },
+  "parameter": {
+    "light": "oklch(0.979 0.042 310.23)",
+    "dark": "oklch(0.198 0.058 310.23)",
+    "accent": "oklch(0.694 0.158 310.23)"
+  },
+  "argument": {
+    "light": "oklch(0.983 0.026 87.74)",
+    "dark": "oklch(0.207 0.043 87.74)",
+    "accent": "oklch(0.713 0.149 87.74)"
+  },
+  "return_value": {
+    "light": "oklch(0.955 0.038 225.25)",
+    "dark": "oklch(0.216 0.028 225.25)",
+    "accent": "oklch(0.580 0.140 225.25)"
+  },
+  "scope": {
+    "light": "oklch(0.959 0.022 2.76)",
+    "dark": "oklch(0.225 0.053 2.76)",
+    "accent": "oklch(0.599 0.203 2.76)"
+  },
+  "lifetime": {
+    "light": "oklch(0.963 0.034 140.26)",
+    "dark": "oklch(0.234 0.038 140.26)",
+    "accent": "oklch(0.618 0.194 140.26)"
+  },
+  "stack_frame": {
+    "light": "oklch(0.967 0.018 277.77)",
+    "dark": "oklch(0.180 0.063 277.77)",
+    "accent": "oklch(0.637 0.185 277.77)"
+  },
+  "call_stack": {
+    "light": "oklch(0.971 0.030 55.28)",
+    "dark": "oklch(0.189 0.048 55.28)",
+    "accent": "oklch(0.656 0.176 55.28)"
+  },
+  "closure": {
+    "light": "oklch(0.975 0.042 192.79)",
+    "dark": "oklch(0.198 0.033 192.79)",
+    "accent": "oklch(0.675 0.167 192.79)"
+  },
+  "lambda": {
+    "light": "oklch(0.979 0.026 330.3)",
+    "dark": "oklch(0.207 0.058 330.3)",
+    "accent": "oklch(0.694 0.158 330.3)"
+  },
+  "callback": {
+    "light": "oklch(0.983 0.038 107.8)",
+    "dark": "oklch(0.216 0.043 107.8)",
+    "accent": "oklch(0.713 0.149 107.8)"
+  },
+  "side_effect": {
+    "light": "oklch(0.955 0.022 245.31)",
+    "dark": "oklch(0.225 0.028 245.31)",
+    "accent": "oklch(0.580 0.140 245.31)"
+  },
+  "pure_function": {
+    "light": "oklch(0.959 0.034 22.82)",
+    "dark": "oklch(0.234 0.053 22.82)",
+    "accent": "oklch(0.599 0.203 22.82)"
+  },
+  "mutable": {
+    "light": "oklch(0.963 0.018 160.33)",
+    "dark": "oklch(0.180 0.038 160.33)",
+    "accent": "oklch(0.618 0.194 160.33)"
+  },
+  "immutable": {
+    "light": "oklch(0.967 0.030 297.83)",
+    "dark": "oklch(0.189 0.063 297.83)",
+    "accent": "oklch(0.637 0.185 297.83)"
+  },
+  "pass_by_value": {
+    "light": "oklch(0.971 0.042 75.34)",
+    "dark": "oklch(0.198 0.048 75.34)",
+    "accent": "oklch(0.656 0.176 75.34)"
+  },
+  "pass_by_reference": {
+    "light": "oklch(0.975 0.026 212.85)",
+    "dark": "oklch(0.207 0.033 212.85)",
+    "accent": "oklch(0.675 0.167 212.85)"
+  },
+  "type": {
+    "light": "oklch(0.979 0.038 350.36)",
+    "dark": "oklch(0.216 0.058 350.36)",
+    "accent": "oklch(0.694 0.158 350.36)"
+  },
+  "primitive_type": {
+    "light": "oklch(0.983 0.022 127.86)",
+    "dark": "oklch(0.225 0.043 127.86)",
+    "accent": "oklch(0.713 0.149 127.86)"
+  },
+  "casting": {
+    "light": "oklch(0.955 0.034 265.37)",
+    "dark": "oklch(0.234 0.028 265.37)",
+    "accent": "oklch(0.580 0.140 265.37)"
+  },
+  "coercion": {
+    "light": "oklch(0.959 0.018 42.88)",
+    "dark": "oklch(0.180 0.053 42.88)",
+    "accent": "oklch(0.599 0.203 42.88)"
+  },
+  "exception": {
+    "light": "oklch(0.963 0.030 180.39)",
+    "dark": "oklch(0.189 0.038 180.39)",
+    "accent": "oklch(0.618 0.194 180.39)"
+  },
+  "debugging": {
+    "light": "oklch(0.967 0.042 317.9)",
+    "dark": "oklch(0.198 0.063 317.9)",
+    "accent": "oklch(0.637 0.185 317.9)"
+  },
+  "breakpoint": {
+    "light": "oklch(0.971 0.026 95.4)",
+    "dark": "oklch(0.207 0.048 95.4)",
+    "accent": "oklch(0.656 0.176 95.4)"
+  },
+  "assertion": {
+    "light": "oklch(0.975 0.038 232.91)",
+    "dark": "oklch(0.216 0.033 232.91)",
+    "accent": "oklch(0.675 0.167 232.91)"
+  },
+  "logging": {
+    "light": "oklch(0.979 0.022 10.42)",
+    "dark": "oklch(0.225 0.058 10.42)",
+    "accent": "oklch(0.694 0.158 10.42)"
+  },
+  "array": {
+    "light": "oklch(0.983 0.034 147.93)",
+    "dark": "oklch(0.234 0.043 147.93)",
+    "accent": "oklch(0.713 0.149 147.93)"
+  },
+  "dynamic_array": {
+    "light": "oklch(0.955 0.018 285.43)",
+    "dark": "oklch(0.180 0.028 285.43)",
+    "accent": "oklch(0.580 0.140 285.43)"
+  },
+  "linked_list": {
+    "light": "oklch(0.959 0.030 62.94)",
+    "dark": "oklch(0.189 0.053 62.94)",
+    "accent": "oklch(0.599 0.203 62.94)"
+  },
+  "stack": {
+    "light": "oklch(0.963 0.042 200.45)",
+    "dark": "oklch(0.198 0.038 200.45)",
+    "accent": "oklch(0.618 0.194 200.45)"
+  },
+  "queue": {
+    "light": "oklch(0.967 0.026 337.96)",
+    "dark": "oklch(0.207 0.063 337.96)",
+    "accent": "oklch(0.637 0.185 337.96)"
+  },
+  "deque": {
+    "light": "oklch(0.971 0.038 115.47)",
+    "dark": "oklch(0.216 0.048 115.47)",
+    "accent": "oklch(0.656 0.176 115.47)"
+  },
+  "priority_queue": {
+    "light": "oklch(0.975 0.022 252.97)",
+    "dark": "oklch(0.225 0.033 252.97)",
+    "accent": "oklch(0.675 0.167 252.97)"
+  },
+  "heap": {
+    "light": "oklch(0.979 0.034 30.48)",
+    "dark": "oklch(0.234 0.058 30.48)",
+    "accent": "oklch(0.694 0.158 30.48)"
+  },
+  "hash_table": {
+    "light": "oklch(0.983 0.018 167.99)",
+    "dark": "oklch(0.180 0.043 167.99)",
+    "accent": "oklch(0.713 0.149 167.99)"
+  },
+  "hash_map": {
+    "light": "oklch(0.955 0.030 305.5)",
+    "dark": "oklch(0.189 0.028 305.5)",
+    "accent": "oklch(0.580 0.140 305.5)"
+  },
+  "hash_set": {
+    "light": "oklch(0.959 0.042 83)",
+    "dark": "oklch(0.198 0.053 83)",
+    "accent": "oklch(0.599 0.203 83)"
+  },
+  "tree": {
+    "light": "oklch(0.963 0.026 220.51)",
+    "dark": "oklch(0.207 0.038 220.51)",
+    "accent": "oklch(0.618 0.194 220.51)"
+  },
+  "binary_tree": {
+    "light": "oklch(0.967 0.038 358.02)",
+    "dark": "oklch(0.216 0.063 358.02)",
+    "accent": "oklch(0.637 0.185 358.02)"
+  },
+  "binary_search_tree": {
+    "light": "oklch(0.971 0.022 135.53)",
+    "dark": "oklch(0.225 0.048 135.53)",
+    "accent": "oklch(0.656 0.176 135.53)"
+  },
+  "avl_tree": {
+    "light": "oklch(0.975 0.034 273.04)",
+    "dark": "oklch(0.234 0.033 273.04)",
+    "accent": "oklch(0.675 0.167 273.04)"
+  },
+  "red_black_tree": {
+    "light": "oklch(0.979 0.018 50.54)",
+    "dark": "oklch(0.180 0.058 50.54)",
+    "accent": "oklch(0.694 0.158 50.54)"
+  },
+  "b_tree": {
+    "light": "oklch(0.983 0.030 188.05)",
+    "dark": "oklch(0.189 0.043 188.05)",
+    "accent": "oklch(0.713 0.149 188.05)"
+  },
+  "b_plus_tree": {
+    "light": "oklch(0.955 0.042 325.56)",
+    "dark": "oklch(0.198 0.028 325.56)",
+    "accent": "oklch(0.580 0.140 325.56)"
+  },
+  "trie": {
+    "light": "oklch(0.959 0.026 103.07)",
+    "dark": "oklch(0.207 0.053 103.07)",
+    "accent": "oklch(0.599 0.203 103.07)"
+  },
+  "graph": {
+    "light": "oklch(0.963 0.038 240.57)",
+    "dark": "oklch(0.216 0.038 240.57)",
+    "accent": "oklch(0.618 0.194 240.57)"
+  },
+  "dag": {
+    "light": "oklch(0.967 0.022 18.08)",
+    "dark": "oklch(0.225 0.063 18.08)",
+    "accent": "oklch(0.637 0.185 18.08)"
+  },
+  "adjacency_list": {
+    "light": "oklch(0.971 0.034 155.59)",
+    "dark": "oklch(0.234 0.048 155.59)",
+    "accent": "oklch(0.656 0.176 155.59)"
+  },
+  "adjacency_matrix": {
+    "light": "oklch(0.975 0.018 293.1)",
+    "dark": "oklch(0.180 0.033 293.1)",
+    "accent": "oklch(0.675 0.167 293.1)"
+  },
+  "union_find": {
+    "light": "oklch(0.979 0.030 70.61)",
+    "dark": "oklch(0.189 0.058 70.61)",
+    "accent": "oklch(0.694 0.158 70.61)"
+  },
+  "binary_search": {
+    "light": "oklch(0.983 0.042 208.11)",
+    "dark": "oklch(0.198 0.043 208.11)",
+    "accent": "oklch(0.713 0.149 208.11)"
+  },
+  "bfs": {
+    "light": "oklch(0.955 0.026 345.62)",
+    "dark": "oklch(0.207 0.028 345.62)",
+    "accent": "oklch(0.580 0.140 345.62)"
+  },
+  "dfs": {
+    "light": "oklch(0.959 0.038 123.13)",
+    "dark": "oklch(0.216 0.053 123.13)",
+    "accent": "oklch(0.599 0.203 123.13)"
+  },
+  "topological_sort": {
+    "light": "oklch(0.963 0.022 260.64)",
+    "dark": "oklch(0.225 0.038 260.64)",
+    "accent": "oklch(0.618 0.194 260.64)"
+  },
+  "dijkstra": {
+    "light": "oklch(0.967 0.034 38.14)",
+    "dark": "oklch(0.234 0.063 38.14)",
+    "accent": "oklch(0.637 0.185 38.14)"
+  },
+  "bellman_ford": {
+    "light": "oklch(0.971 0.018 175.65)",
+    "dark": "oklch(0.180 0.048 175.65)",
+    "accent": "oklch(0.656 0.176 175.65)"
+  },
+  "floyd_warshall": {
+    "light": "oklch(0.975 0.030 313.16)",
+    "dark": "oklch(0.189 0.033 313.16)",
+    "accent": "oklch(0.675 0.167 313.16)"
+  },
+  "a_star": {
+    "light": "oklch(0.979 0.042 90.67)",
+    "dark": "oklch(0.198 0.058 90.67)",
+    "accent": "oklch(0.694 0.158 90.67)"
+  },
+  "kruskal": {
+    "light": "oklch(0.983 0.026 228.18)",
+    "dark": "oklch(0.207 0.043 228.18)",
+    "accent": "oklch(0.713 0.149 228.18)"
+  },
+  "prim": {
+    "light": "oklch(0.955 0.038 5.68)",
+    "dark": "oklch(0.216 0.028 5.68)",
+    "accent": "oklch(0.580 0.140 5.68)"
+  },
+  "dynamic_programming": {
+    "light": "oklch(0.959 0.022 143.19)",
+    "dark": "oklch(0.225 0.053 143.19)",
+    "accent": "oklch(0.599 0.203 143.19)"
+  },
+  "greedy_algorithm": {
+    "light": "oklch(0.963 0.034 280.7)",
+    "dark": "oklch(0.234 0.038 280.7)",
+    "accent": "oklch(0.618 0.194 280.7)"
+  },
+  "divide_and_conquer": {
+    "light": "oklch(0.967 0.018 58.21)",
+    "dark": "oklch(0.180 0.063 58.21)",
+    "accent": "oklch(0.637 0.185 58.21)"
+  },
+  "backtracking": {
+    "light": "oklch(0.971 0.030 195.71)",
+    "dark": "oklch(0.189 0.048 195.71)",
+    "accent": "oklch(0.656 0.176 195.71)"
+  },
+  "memoization": {
+    "light": "oklch(0.975 0.042 333.22)",
+    "dark": "oklch(0.198 0.033 333.22)",
+    "accent": "oklch(0.675 0.167 333.22)"
+  },
+  "tabulation": {
+    "light": "oklch(0.979 0.026 110.73)",
+    "dark": "oklch(0.207 0.058 110.73)",
+    "accent": "oklch(0.694 0.158 110.73)"
+  },
+  "two_pointers": {
+    "light": "oklch(0.983 0.038 248.24)",
+    "dark": "oklch(0.216 0.043 248.24)",
+    "accent": "oklch(0.713 0.149 248.24)"
+  },
+  "sliding_window": {
+    "light": "oklch(0.955 0.022 25.75)",
+    "dark": "oklch(0.225 0.028 25.75)",
+    "accent": "oklch(0.580 0.140 25.75)"
+  },
+  "prefix_sum": {
+    "light": "oklch(0.959 0.034 163.25)",
+    "dark": "oklch(0.234 0.053 163.25)",
+    "accent": "oklch(0.599 0.203 163.25)"
+  },
+  "time_complexity": {
+    "light": "oklch(0.963 0.018 300.76)",
+    "dark": "oklch(0.180 0.038 300.76)",
+    "accent": "oklch(0.618 0.194 300.76)"
+  },
+  "space_complexity": {
+    "light": "oklch(0.967 0.030 78.27)",
+    "dark": "oklch(0.189 0.063 78.27)",
+    "accent": "oklch(0.637 0.185 78.27)"
+  },
+  "big_o": {
+    "light": "oklch(0.971 0.042 215.78)",
+    "dark": "oklch(0.198 0.048 215.78)",
+    "accent": "oklch(0.656 0.176 215.78)"
+  },
+  "big_omega": {
+    "light": "oklch(0.975 0.026 353.28)",
+    "dark": "oklch(0.207 0.033 353.28)",
+    "accent": "oklch(0.675 0.167 353.28)"
+  },
+  "big_theta": {
+    "light": "oklch(0.979 0.038 130.79)",
+    "dark": "oklch(0.216 0.058 130.79)",
+    "accent": "oklch(0.694 0.158 130.79)"
+  },
+  "amortized_analysis": {
+    "light": "oklch(0.983 0.022 268.3)",
+    "dark": "oklch(0.225 0.043 268.3)",
+    "accent": "oklch(0.713 0.149 268.3)"
+  },
+  "p": {
+    "light": "oklch(0.955 0.034 45.81)",
+    "dark": "oklch(0.234 0.028 45.81)",
+    "accent": "oklch(0.580 0.140 45.81)"
+  },
+  "np": {
+    "light": "oklch(0.959 0.018 183.32)",
+    "dark": "oklch(0.180 0.053 183.32)",
+    "accent": "oklch(0.599 0.203 183.32)"
+  },
+  "np_hard": {
+    "light": "oklch(0.963 0.030 320.82)",
+    "dark": "oklch(0.189 0.038 320.82)",
+    "accent": "oklch(0.618 0.194 320.82)"
+  },
+  "np_complete": {
+    "light": "oklch(0.967 0.042 98.33)",
+    "dark": "oklch(0.198 0.063 98.33)",
+    "accent": "oklch(0.637 0.185 98.33)"
+  },
+  "operating_system": {
+    "light": "oklch(0.971 0.026 235.84)",
+    "dark": "oklch(0.207 0.048 235.84)",
+    "accent": "oklch(0.656 0.176 235.84)"
+  },
+  "kernel": {
+    "light": "oklch(0.975 0.038 13.35)",
+    "dark": "oklch(0.216 0.033 13.35)",
+    "accent": "oklch(0.675 0.167 13.35)"
+  },
+  "user_mode": {
+    "light": "oklch(0.979 0.022 150.85)",
+    "dark": "oklch(0.225 0.058 150.85)",
+    "accent": "oklch(0.694 0.158 150.85)"
+  },
+  "kernel_mode": {
+    "light": "oklch(0.983 0.034 288.36)",
+    "dark": "oklch(0.234 0.043 288.36)",
+    "accent": "oklch(0.713 0.149 288.36)"
+  },
+  "system_call": {
+    "light": "oklch(0.955 0.018 65.87)",
+    "dark": "oklch(0.180 0.028 65.87)",
+    "accent": "oklch(0.580 0.140 65.87)"
+  },
+  "process": {
+    "light": "oklch(0.959 0.030 203.38)",
+    "dark": "oklch(0.189 0.053 203.38)",
+    "accent": "oklch(0.599 0.203 203.38)"
+  },
+  "thread": {
+    "light": "oklch(0.963 0.042 340.89)",
+    "dark": "oklch(0.198 0.038 340.89)",
+    "accent": "oklch(0.618 0.194 340.89)"
+  },
+  "pcb": {
+    "light": "oklch(0.967 0.026 118.39)",
+    "dark": "oklch(0.207 0.063 118.39)",
+    "accent": "oklch(0.637 0.185 118.39)"
+  },
+  "scheduler": {
+    "light": "oklch(0.971 0.038 255.9)",
+    "dark": "oklch(0.216 0.048 255.9)",
+    "accent": "oklch(0.656 0.176 255.9)"
+  },
+  "context_switch": {
+    "light": "oklch(0.975 0.022 33.41)",
+    "dark": "oklch(0.225 0.033 33.41)",
+    "accent": "oklch(0.675 0.167 33.41)"
+  },
+  "preemption": {
+    "light": "oklch(0.979 0.034 170.92)",
+    "dark": "oklch(0.234 0.058 170.92)",
+    "accent": "oklch(0.694 0.158 170.92)"
+  },
+  "multitasking": {
+    "light": "oklch(0.983 0.018 308.42)",
+    "dark": "oklch(0.180 0.043 308.42)",
+    "accent": "oklch(0.713 0.149 308.42)"
+  },
+  "multiprocessing": {
+    "light": "oklch(0.955 0.030 85.93)",
+    "dark": "oklch(0.189 0.028 85.93)",
+    "accent": "oklch(0.580 0.140 85.93)"
+  },
+  "multithreading": {
+    "light": "oklch(0.959 0.042 223.44)",
+    "dark": "oklch(0.198 0.053 223.44)",
+    "accent": "oklch(0.599 0.203 223.44)"
+  },
+  "concurrency": {
+    "light": "oklch(0.963 0.026 0.95)",
+    "dark": "oklch(0.207 0.038 0.95)",
+    "accent": "oklch(0.618 0.194 0.95)"
+  },
+  "parallelism": {
+    "light": "oklch(0.967 0.038 138.45)",
+    "dark": "oklch(0.216 0.063 138.45)",
+    "accent": "oklch(0.637 0.185 138.45)"
+  },
+  "synchronization": {
+    "light": "oklch(0.971 0.022 275.96)",
+    "dark": "oklch(0.225 0.048 275.96)",
+    "accent": "oklch(0.656 0.176 275.96)"
+  },
+  "race_condition": {
+    "light": "oklch(0.975 0.034 53.47)",
+    "dark": "oklch(0.234 0.033 53.47)",
+    "accent": "oklch(0.675 0.167 53.47)"
+  },
+  "critical_section": {
+    "light": "oklch(0.979 0.018 190.98)",
+    "dark": "oklch(0.180 0.058 190.98)",
+    "accent": "oklch(0.694 0.158 190.98)"
+  },
+  "mutex": {
+    "light": "oklch(0.983 0.030 328.49)",
+    "dark": "oklch(0.189 0.043 328.49)",
+    "accent": "oklch(0.713 0.149 328.49)"
+  },
+  "semaphore": {
+    "light": "oklch(0.955 0.042 105.99)",
+    "dark": "oklch(0.198 0.028 105.99)",
+    "accent": "oklch(0.580 0.140 105.99)"
+  },
+  "spinlock": {
+    "light": "oklch(0.959 0.026 243.5)",
+    "dark": "oklch(0.207 0.053 243.5)",
+    "accent": "oklch(0.599 0.203 243.5)"
+  },
+  "deadlock": {
+    "light": "oklch(0.963 0.038 21.01)",
+    "dark": "oklch(0.216 0.038 21.01)",
+    "accent": "oklch(0.618 0.194 21.01)"
+  },
+  "livelock": {
+    "light": "oklch(0.967 0.022 158.52)",
+    "dark": "oklch(0.225 0.063 158.52)",
+    "accent": "oklch(0.637 0.185 158.52)"
+  },
+  "starvation": {
+    "light": "oklch(0.971 0.034 296.02)",
+    "dark": "oklch(0.234 0.048 296.02)",
+    "accent": "oklch(0.656 0.176 296.02)"
+  },
+  "interrupt": {
+    "light": "oklch(0.975 0.018 73.53)",
+    "dark": "oklch(0.180 0.033 73.53)",
+    "accent": "oklch(0.675 0.167 73.53)"
+  },
+  "trap": {
+    "light": "oklch(0.979 0.030 211.04)",
+    "dark": "oklch(0.189 0.058 211.04)",
+    "accent": "oklch(0.694 0.158 211.04)"
+  },
+  "signal": {
+    "light": "oklch(0.983 0.042 348.55)",
+    "dark": "oklch(0.198 0.043 348.55)",
+    "accent": "oklch(0.713 0.149 348.55)"
+  },
+  "ipc": {
+    "light": "oklch(0.955 0.026 126.06)",
+    "dark": "oklch(0.207 0.028 126.06)",
+    "accent": "oklch(0.580 0.140 126.06)"
+  },
+  "pipe": {
+    "light": "oklch(0.959 0.038 263.56)",
+    "dark": "oklch(0.216 0.053 263.56)",
+    "accent": "oklch(0.599 0.203 263.56)"
+  },
+  "shared_memory": {
+    "light": "oklch(0.963 0.022 41.07)",
+    "dark": "oklch(0.225 0.038 41.07)",
+    "accent": "oklch(0.618 0.194 41.07)"
+  },
+  "message_queue": {
+    "light": "oklch(0.967 0.034 178.58)",
+    "dark": "oklch(0.234 0.063 178.58)",
+    "accent": "oklch(0.637 0.185 178.58)"
+  },
+  "socket": {
+    "light": "oklch(0.971 0.018 316.09)",
+    "dark": "oklch(0.180 0.048 316.09)",
+    "accent": "oklch(0.656 0.176 316.09)"
+  },
+  "virtual_memory": {
+    "light": "oklch(0.975 0.030 93.59)",
+    "dark": "oklch(0.189 0.033 93.59)",
+    "accent": "oklch(0.675 0.167 93.59)"
+  },
+  "physical_memory": {
+    "light": "oklch(0.979 0.042 231.1)",
+    "dark": "oklch(0.198 0.058 231.1)",
+    "accent": "oklch(0.694 0.158 231.1)"
+  },
+  "paging": {
+    "light": "oklch(0.983 0.026 8.61)",
+    "dark": "oklch(0.207 0.043 8.61)",
+    "accent": "oklch(0.713 0.149 8.61)"
+  },
+  "page": {
+    "light": "oklch(0.955 0.038 146.12)",
+    "dark": "oklch(0.216 0.028 146.12)",
+    "accent": "oklch(0.580 0.140 146.12)"
+  },
+  "frame": {
+    "light": "oklch(0.959 0.022 283.63)",
+    "dark": "oklch(0.225 0.053 283.63)",
+    "accent": "oklch(0.599 0.203 283.63)"
+  },
+  "page_table": {
+    "light": "oklch(0.963 0.034 61.13)",
+    "dark": "oklch(0.234 0.038 61.13)",
+    "accent": "oklch(0.618 0.194 61.13)"
+  },
+  "tlb": {
+    "light": "oklch(0.967 0.018 198.64)",
+    "dark": "oklch(0.180 0.063 198.64)",
+    "accent": "oklch(0.637 0.185 198.64)"
+  },
+  "page_fault": {
+    "light": "oklch(0.971 0.030 336.15)",
+    "dark": "oklch(0.189 0.048 336.15)",
+    "accent": "oklch(0.656 0.176 336.15)"
+  },
+  "swapping": {
+    "light": "oklch(0.975 0.042 113.66)",
+    "dark": "oklch(0.198 0.033 113.66)",
+    "accent": "oklch(0.675 0.167 113.66)"
+  },
+  "filesystem": {
+    "light": "oklch(0.979 0.026 251.16)",
+    "dark": "oklch(0.207 0.058 251.16)",
+    "accent": "oklch(0.694 0.158 251.16)"
+  },
+  "file_descriptor": {
+    "light": "oklch(0.983 0.038 28.67)",
+    "dark": "oklch(0.216 0.043 28.67)",
+    "accent": "oklch(0.713 0.149 28.67)"
+  },
+  "inode": {
+    "light": "oklch(0.955 0.022 166.18)",
+    "dark": "oklch(0.225 0.028 166.18)",
+    "accent": "oklch(0.580 0.140 166.18)"
+  },
+  "device_driver": {
+    "light": "oklch(0.959 0.034 303.69)",
+    "dark": "oklch(0.234 0.053 303.69)",
+    "accent": "oklch(0.599 0.203 303.69)"
+  },
+  "dma": {
+    "light": "oklch(0.963 0.018 81.2)",
+    "dark": "oklch(0.180 0.038 81.2)",
+    "accent": "oklch(0.618 0.194 81.2)"
+  },
+  "bootloader": {
+    "light": "oklch(0.967 0.030 218.7)",
+    "dark": "oklch(0.189 0.063 218.7)",
+    "accent": "oklch(0.637 0.185 218.7)"
+  },
+  "rtos": {
+    "light": "oklch(0.971 0.042 356.21)",
+    "dark": "oklch(0.198 0.048 356.21)",
+    "accent": "oklch(0.656 0.176 356.21)"
+  },
+  "cpu": {
+    "light": "oklch(0.975 0.026 133.72)",
+    "dark": "oklch(0.207 0.033 133.72)",
+    "accent": "oklch(0.675 0.167 133.72)"
+  },
+  "core": {
+    "light": "oklch(0.979 0.038 271.23)",
+    "dark": "oklch(0.216 0.058 271.23)",
+    "accent": "oklch(0.694 0.158 271.23)"
+  },
+  "register": {
+    "light": "oklch(0.983 0.022 48.73)",
+    "dark": "oklch(0.225 0.043 48.73)",
+    "accent": "oklch(0.713 0.149 48.73)"
+  },
+  "instruction": {
+    "light": "oklch(0.955 0.034 186.24)",
+    "dark": "oklch(0.234 0.028 186.24)",
+    "accent": "oklch(0.580 0.140 186.24)"
+  },
+  "opcode": {
+    "light": "oklch(0.959 0.018 323.75)",
+    "dark": "oklch(0.180 0.053 323.75)",
+    "accent": "oklch(0.599 0.203 323.75)"
+  },
+  "isa": {
+    "light": "oklch(0.963 0.030 101.26)",
+    "dark": "oklch(0.189 0.038 101.26)",
+    "accent": "oklch(0.618 0.194 101.26)"
+  },
+  "alu": {
+    "light": "oklch(0.967 0.042 238.77)",
+    "dark": "oklch(0.198 0.063 238.77)",
+    "accent": "oklch(0.637 0.185 238.77)"
+  },
+  "control_unit": {
+    "light": "oklch(0.971 0.026 16.27)",
+    "dark": "oklch(0.207 0.048 16.27)",
+    "accent": "oklch(0.656 0.176 16.27)"
+  },
+  "clock": {
+    "light": "oklch(0.975 0.038 153.78)",
+    "dark": "oklch(0.216 0.033 153.78)",
+    "accent": "oklch(0.675 0.167 153.78)"
+  },
+  "pipeline": {
+    "light": "oklch(0.979 0.022 291.29)",
+    "dark": "oklch(0.225 0.058 291.29)",
+    "accent": "oklch(0.694 0.158 291.29)"
+  },
+  "branch_prediction": {
+    "light": "oklch(0.983 0.034 68.8)",
+    "dark": "oklch(0.234 0.043 68.8)",
+    "accent": "oklch(0.713 0.149 68.8)"
+  },
+  "speculative_execution": {
+    "light": "oklch(0.955 0.018 206.3)",
+    "dark": "oklch(0.180 0.028 206.3)",
+    "accent": "oklch(0.580 0.140 206.3)"
+  },
+  "cache": {
+    "light": "oklch(0.959 0.030 343.81)",
+    "dark": "oklch(0.189 0.053 343.81)",
+    "accent": "oklch(0.599 0.203 343.81)"
+  },
+  "cache_line": {
+    "light": "oklch(0.963 0.042 121.32)",
+    "dark": "oklch(0.198 0.038 121.32)",
+    "accent": "oklch(0.618 0.194 121.32)"
+  },
+  "cache_coherence": {
+    "light": "oklch(0.967 0.026 258.83)",
+    "dark": "oklch(0.207 0.063 258.83)",
+    "accent": "oklch(0.637 0.185 258.83)"
+  },
+  "ram": {
+    "light": "oklch(0.971 0.038 36.34)",
+    "dark": "oklch(0.216 0.048 36.34)",
+    "accent": "oklch(0.656 0.176 36.34)"
+  },
+  "dram": {
+    "light": "oklch(0.975 0.022 173.84)",
+    "dark": "oklch(0.225 0.033 173.84)",
+    "accent": "oklch(0.675 0.167 173.84)"
+  },
+  "sram": {
+    "light": "oklch(0.979 0.034 311.35)",
+    "dark": "oklch(0.234 0.058 311.35)",
+    "accent": "oklch(0.694 0.158 311.35)"
+  },
+  "numa": {
+    "light": "oklch(0.983 0.018 88.86)",
+    "dark": "oklch(0.180 0.043 88.86)",
+    "accent": "oklch(0.713 0.149 88.86)"
+  },
+  "simd": {
+    "light": "oklch(0.955 0.030 226.37)",
+    "dark": "oklch(0.189 0.028 226.37)",
+    "accent": "oklch(0.580 0.140 226.37)"
+  },
+  "gpu": {
+    "light": "oklch(0.959 0.042 3.87)",
+    "dark": "oklch(0.198 0.053 3.87)",
+    "accent": "oklch(0.599 0.203 3.87)"
+  },
+  "network": {
+    "light": "oklch(0.963 0.026 141.38)",
+    "dark": "oklch(0.207 0.038 141.38)",
+    "accent": "oklch(0.618 0.194 141.38)"
+  },
+  "internet": {
+    "light": "oklch(0.967 0.038 278.89)",
+    "dark": "oklch(0.216 0.063 278.89)",
+    "accent": "oklch(0.637 0.185 278.89)"
+  },
+  "packet": {
+    "light": "oklch(0.971 0.022 56.4)",
+    "dark": "oklch(0.225 0.048 56.4)",
+    "accent": "oklch(0.656 0.176 56.4)"
+  },
+  "frame_network": {
+    "light": "oklch(0.975 0.034 193.91)",
+    "dark": "oklch(0.234 0.033 193.91)",
+    "accent": "oklch(0.675 0.167 193.91)"
+  },
+  "protocol": {
+    "light": "oklch(0.979 0.018 331.41)",
+    "dark": "oklch(0.180 0.058 331.41)",
+    "accent": "oklch(0.694 0.158 331.41)"
+  },
+  "osi_model": {
+    "light": "oklch(0.983 0.030 108.92)",
+    "dark": "oklch(0.189 0.043 108.92)",
+    "accent": "oklch(0.713 0.149 108.92)"
+  },
+  "tcp": {
+    "light": "oklch(0.955 0.042 246.43)",
+    "dark": "oklch(0.198 0.028 246.43)",
+    "accent": "oklch(0.580 0.140 246.43)"
+  },
+  "udp": {
+    "light": "oklch(0.959 0.026 23.94)",
+    "dark": "oklch(0.207 0.053 23.94)",
+    "accent": "oklch(0.599 0.203 23.94)"
+  },
+  "ip": {
+    "light": "oklch(0.963 0.038 161.44)",
+    "dark": "oklch(0.216 0.038 161.44)",
+    "accent": "oklch(0.618 0.194 161.44)"
+  },
+  "ipv4": {
+    "light": "oklch(0.967 0.022 298.95)",
+    "dark": "oklch(0.225 0.063 298.95)",
+    "accent": "oklch(0.637 0.185 298.95)"
+  },
+  "ipv6": {
+    "light": "oklch(0.971 0.034 76.46)",
+    "dark": "oklch(0.234 0.048 76.46)",
+    "accent": "oklch(0.656 0.176 76.46)"
+  },
+  "arp": {
+    "light": "oklch(0.975 0.018 213.97)",
+    "dark": "oklch(0.180 0.033 213.97)",
+    "accent": "oklch(0.675 0.167 213.97)"
+  },
+  "mac_address": {
+    "light": "oklch(0.979 0.030 351.48)",
+    "dark": "oklch(0.189 0.058 351.48)",
+    "accent": "oklch(0.694 0.158 351.48)"
+  },
+  "ip_address": {
+    "light": "oklch(0.983 0.042 128.98)",
+    "dark": "oklch(0.198 0.043 128.98)",
+    "accent": "oklch(0.713 0.149 128.98)"
+  },
+  "subnet": {
+    "light": "oklch(0.955 0.026 266.49)",
+    "dark": "oklch(0.207 0.028 266.49)",
+    "accent": "oklch(0.580 0.140 266.49)"
+  },
+  "cidr": {
+    "light": "oklch(0.959 0.038 44)",
+    "dark": "oklch(0.216 0.053 44)",
+    "accent": "oklch(0.599 0.203 44)"
+  },
+  "gateway": {
+    "light": "oklch(0.963 0.022 181.51)",
+    "dark": "oklch(0.225 0.038 181.51)",
+    "accent": "oklch(0.618 0.194 181.51)"
+  },
+  "router": {
+    "light": "oklch(0.967 0.034 319.01)",
+    "dark": "oklch(0.234 0.063 319.01)",
+    "accent": "oklch(0.637 0.185 319.01)"
+  },
+  "switch": {
+    "light": "oklch(0.971 0.018 96.52)",
+    "dark": "oklch(0.180 0.048 96.52)",
+    "accent": "oklch(0.656 0.176 96.52)"
+  },
+  "nat": {
+    "light": "oklch(0.975 0.030 234.03)",
+    "dark": "oklch(0.189 0.033 234.03)",
+    "accent": "oklch(0.675 0.167 234.03)"
+  },
+  "dhcp": {
+    "light": "oklch(0.979 0.042 11.54)",
+    "dark": "oklch(0.198 0.058 11.54)",
+    "accent": "oklch(0.694 0.158 11.54)"
+  },
+  "dns": {
+    "light": "oklch(0.983 0.026 149.05)",
+    "dark": "oklch(0.207 0.043 149.05)",
+    "accent": "oklch(0.713 0.149 149.05)"
+  },
+  "hostname": {
+    "light": "oklch(0.955 0.038 286.55)",
+    "dark": "oklch(0.216 0.028 286.55)",
+    "accent": "oklch(0.580 0.140 286.55)"
+  },
+  "domain": {
+    "light": "oklch(0.959 0.022 64.06)",
+    "dark": "oklch(0.225 0.053 64.06)",
+    "accent": "oklch(0.599 0.203 64.06)"
+  },
+  "port": {
+    "light": "oklch(0.963 0.034 201.57)",
+    "dark": "oklch(0.234 0.038 201.57)",
+    "accent": "oklch(0.618 0.194 201.57)"
+  },
+  "tcp_handshake": {
+    "light": "oklch(0.967 0.018 339.08)",
+    "dark": "oklch(0.180 0.063 339.08)",
+    "accent": "oklch(0.637 0.185 339.08)"
+  },
+  "congestion_control": {
+    "light": "oklch(0.971 0.030 116.58)",
+    "dark": "oklch(0.189 0.048 116.58)",
+    "accent": "oklch(0.656 0.176 116.58)"
+  },
+  "flow_control": {
+    "light": "oklch(0.975 0.042 254.09)",
+    "dark": "oklch(0.198 0.033 254.09)",
+    "accent": "oklch(0.675 0.167 254.09)"
+  },
+  "routing": {
+    "light": "oklch(0.979 0.026 31.6)",
+    "dark": "oklch(0.207 0.058 31.6)",
+    "accent": "oklch(0.694 0.158 31.6)"
+  },
+  "vpn": {
+    "light": "oklch(0.983 0.038 169.11)",
+    "dark": "oklch(0.216 0.043 169.11)",
+    "accent": "oklch(0.713 0.149 169.11)"
+  },
+  "firewall": {
+    "light": "oklch(0.955 0.022 306.61)",
+    "dark": "oklch(0.225 0.028 306.61)",
+    "accent": "oklch(0.580 0.140 306.61)"
+  },
+  "proxy": {
+    "light": "oklch(0.959 0.034 84.12)",
+    "dark": "oklch(0.234 0.053 84.12)",
+    "accent": "oklch(0.599 0.203 84.12)"
+  },
+  "reverse_proxy": {
+    "light": "oklch(0.963 0.018 221.63)",
+    "dark": "oklch(0.180 0.038 221.63)",
+    "accent": "oklch(0.618 0.194 221.63)"
+  },
+  "load_balancer": {
+    "light": "oklch(0.967 0.030 359.14)",
+    "dark": "oklch(0.189 0.063 359.14)",
+    "accent": "oklch(0.637 0.185 359.14)"
+  },
+  "cdn": {
+    "light": "oklch(0.971 0.042 136.65)",
+    "dark": "oklch(0.198 0.048 136.65)",
+    "accent": "oklch(0.656 0.176 136.65)"
+  },
+  "http": {
+    "light": "oklch(0.975 0.026 274.15)",
+    "dark": "oklch(0.207 0.033 274.15)",
+    "accent": "oklch(0.675 0.167 274.15)"
+  },
+  "https": {
+    "light": "oklch(0.979 0.038 51.66)",
+    "dark": "oklch(0.216 0.058 51.66)",
+    "accent": "oklch(0.694 0.158 51.66)"
+  },
+  "tls": {
+    "light": "oklch(0.983 0.022 189.17)",
+    "dark": "oklch(0.225 0.043 189.17)",
+    "accent": "oklch(0.713 0.149 189.17)"
+  },
+  "websocket": {
+    "light": "oklch(0.955 0.034 326.68)",
+    "dark": "oklch(0.234 0.028 326.68)",
+    "accent": "oklch(0.580 0.140 326.68)"
+  },
+  "frontend": {
+    "light": "oklch(0.959 0.018 104.18)",
+    "dark": "oklch(0.180 0.053 104.18)",
+    "accent": "oklch(0.599 0.203 104.18)"
+  },
+  "backend": {
+    "light": "oklch(0.963 0.030 241.69)",
+    "dark": "oklch(0.189 0.038 241.69)",
+    "accent": "oklch(0.618 0.194 241.69)"
+  },
+  "spa": {
+    "light": "oklch(0.967 0.042 19.2)",
+    "dark": "oklch(0.198 0.063 19.2)",
+    "accent": "oklch(0.637 0.185 19.2)"
+  },
+  "ssr": {
+    "light": "oklch(0.971 0.026 156.71)",
+    "dark": "oklch(0.207 0.048 156.71)",
+    "accent": "oklch(0.656 0.176 156.71)"
+  },
+  "csr": {
+    "light": "oklch(0.975 0.038 294.22)",
+    "dark": "oklch(0.216 0.033 294.22)",
+    "accent": "oklch(0.675 0.167 294.22)"
+  },
+  "html": {
+    "light": "oklch(0.979 0.022 71.72)",
+    "dark": "oklch(0.225 0.058 71.72)",
+    "accent": "oklch(0.694 0.158 71.72)"
+  },
+  "css": {
+    "light": "oklch(0.983 0.034 209.23)",
+    "dark": "oklch(0.234 0.043 209.23)",
+    "accent": "oklch(0.713 0.149 209.23)"
+  },
+  "javascript": {
+    "light": "oklch(0.955 0.018 346.74)",
+    "dark": "oklch(0.180 0.028 346.74)",
+    "accent": "oklch(0.580 0.140 346.74)"
+  },
+  "typescript": {
+    "light": "oklch(0.959 0.030 124.25)",
+    "dark": "oklch(0.189 0.053 124.25)",
+    "accent": "oklch(0.599 0.203 124.25)"
+  },
+  "dom": {
+    "light": "oklch(0.963 0.042 261.75)",
+    "dark": "oklch(0.198 0.038 261.75)",
+    "accent": "oklch(0.618 0.194 261.75)"
+  },
+  "event_loop": {
+    "light": "oklch(0.967 0.026 39.26)",
+    "dark": "oklch(0.207 0.063 39.26)",
+    "accent": "oklch(0.637 0.185 39.26)"
+  },
+  "rest": {
+    "light": "oklch(0.971 0.038 176.77)",
+    "dark": "oklch(0.216 0.048 176.77)",
+    "accent": "oklch(0.656 0.176 176.77)"
+  },
+  "graphql": {
+    "light": "oklch(0.975 0.022 314.28)",
+    "dark": "oklch(0.225 0.033 314.28)",
+    "accent": "oklch(0.675 0.167 314.28)"
+  },
+  "grpc": {
+    "light": "oklch(0.979 0.034 91.79)",
+    "dark": "oklch(0.234 0.058 91.79)",
+    "accent": "oklch(0.694 0.158 91.79)"
+  },
+  "endpoint": {
+    "light": "oklch(0.983 0.018 229.29)",
+    "dark": "oklch(0.180 0.043 229.29)",
+    "accent": "oklch(0.713 0.149 229.29)"
+  },
+  "request": {
+    "light": "oklch(0.955 0.030 6.8)",
+    "dark": "oklch(0.189 0.028 6.8)",
+    "accent": "oklch(0.580 0.140 6.8)"
+  },
+  "response": {
+    "light": "oklch(0.959 0.042 144.31)",
+    "dark": "oklch(0.198 0.053 144.31)",
+    "accent": "oklch(0.599 0.203 144.31)"
+  },
+  "cookie": {
+    "light": "oklch(0.963 0.026 281.82)",
+    "dark": "oklch(0.207 0.038 281.82)",
+    "accent": "oklch(0.618 0.194 281.82)"
+  },
+  "session": {
+    "light": "oklch(0.967 0.038 59.32)",
+    "dark": "oklch(0.216 0.063 59.32)",
+    "accent": "oklch(0.637 0.185 59.32)"
+  },
+  "jwt": {
+    "light": "oklch(0.971 0.022 196.83)",
+    "dark": "oklch(0.225 0.048 196.83)",
+    "accent": "oklch(0.656 0.176 196.83)"
+  },
+  "cors": {
+    "light": "oklch(0.975 0.034 334.34)",
+    "dark": "oklch(0.234 0.033 334.34)",
+    "accent": "oklch(0.675 0.167 334.34)"
+  },
+  "middleware": {
+    "light": "oklch(0.979 0.018 111.85)",
+    "dark": "oklch(0.180 0.058 111.85)",
+    "accent": "oklch(0.694 0.158 111.85)"
+  },
+  "authentication": {
+    "light": "oklch(0.983 0.030 249.36)",
+    "dark": "oklch(0.189 0.043 249.36)",
+    "accent": "oklch(0.713 0.149 249.36)"
+  },
+  "authorization": {
+    "light": "oklch(0.955 0.042 26.86)",
+    "dark": "oklch(0.198 0.028 26.86)",
+    "accent": "oklch(0.580 0.140 26.86)"
+  },
+  "rbac": {
+    "light": "oklch(0.959 0.026 164.37)",
+    "dark": "oklch(0.207 0.053 164.37)",
+    "accent": "oklch(0.599 0.203 164.37)"
+  },
+  "oauth2": {
+    "light": "oklch(0.963 0.038 301.88)",
+    "dark": "oklch(0.216 0.038 301.88)",
+    "accent": "oklch(0.618 0.194 301.88)"
+  },
+  "access_token": {
+    "light": "oklch(0.967 0.022 79.39)",
+    "dark": "oklch(0.225 0.063 79.39)",
+    "accent": "oklch(0.637 0.185 79.39)"
+  },
+  "refresh_token": {
+    "light": "oklch(0.971 0.034 216.89)",
+    "dark": "oklch(0.234 0.048 216.89)",
+    "accent": "oklch(0.656 0.176 216.89)"
+  },
+  "rate_limiting": {
+    "light": "oklch(0.975 0.018 354.4)",
+    "dark": "oklch(0.180 0.033 354.4)",
+    "accent": "oklch(0.675 0.167 354.4)"
+  },
+  "caching": {
+    "light": "oklch(0.979 0.030 131.91)",
+    "dark": "oklch(0.189 0.058 131.91)",
+    "accent": "oklch(0.694 0.158 131.91)"
+  },
+  "idempotency": {
+    "light": "oklch(0.983 0.042 269.42)",
+    "dark": "oklch(0.198 0.043 269.42)",
+    "accent": "oklch(0.713 0.149 269.42)"
+  },
+  "serialization": {
+    "light": "oklch(0.955 0.026 46.93)",
+    "dark": "oklch(0.207 0.028 46.93)",
+    "accent": "oklch(0.580 0.140 46.93)"
+  },
+  "orm": {
+    "light": "oklch(0.959 0.038 184.43)",
+    "dark": "oklch(0.216 0.053 184.43)",
+    "accent": "oklch(0.599 0.203 184.43)"
+  },
+  "database": {
+    "light": "oklch(0.963 0.022 321.94)",
+    "dark": "oklch(0.225 0.038 321.94)",
+    "accent": "oklch(0.618 0.194 321.94)"
+  },
+  "dbms": {
+    "light": "oklch(0.967 0.034 99.45)",
+    "dark": "oklch(0.234 0.063 99.45)",
+    "accent": "oklch(0.637 0.185 99.45)"
+  },
+  "rdbms": {
+    "light": "oklch(0.971 0.018 236.96)",
+    "dark": "oklch(0.180 0.048 236.96)",
+    "accent": "oklch(0.656 0.176 236.96)"
+  },
+  "table": {
+    "light": "oklch(0.975 0.030 14.46)",
+    "dark": "oklch(0.189 0.033 14.46)",
+    "accent": "oklch(0.675 0.167 14.46)"
+  },
+  "row": {
+    "light": "oklch(0.979 0.042 151.97)",
+    "dark": "oklch(0.198 0.058 151.97)",
+    "accent": "oklch(0.694 0.158 151.97)"
+  },
+  "column": {
+    "light": "oklch(0.983 0.026 289.48)",
+    "dark": "oklch(0.207 0.043 289.48)",
+    "accent": "oklch(0.713 0.149 289.48)"
+  },
+  "schema": {
+    "light": "oklch(0.955 0.038 66.99)",
+    "dark": "oklch(0.216 0.028 66.99)",
+    "accent": "oklch(0.580 0.140 66.99)"
+  },
+  "primary_key": {
+    "light": "oklch(0.959 0.022 204.5)",
+    "dark": "oklch(0.225 0.053 204.5)",
+    "accent": "oklch(0.599 0.203 204.5)"
+  },
+  "foreign_key": {
+    "light": "oklch(0.963 0.034 342)",
+    "dark": "oklch(0.234 0.038 342)",
+    "accent": "oklch(0.618 0.194 342)"
+  },
+  "index": {
+    "light": "oklch(0.967 0.018 119.51)",
+    "dark": "oklch(0.180 0.063 119.51)",
+    "accent": "oklch(0.637 0.185 119.51)"
+  },
+  "query": {
+    "light": "oklch(0.971 0.030 257.02)",
+    "dark": "oklch(0.189 0.048 257.02)",
+    "accent": "oklch(0.656 0.176 257.02)"
+  },
+  "sql": {
+    "light": "oklch(0.975 0.042 34.53)",
+    "dark": "oklch(0.198 0.033 34.53)",
+    "accent": "oklch(0.675 0.167 34.53)"
+  },
+  "join": {
+    "light": "oklch(0.979 0.026 172.03)",
+    "dark": "oklch(0.207 0.058 172.03)",
+    "accent": "oklch(0.694 0.158 172.03)"
+  },
+  "transaction": {
+    "light": "oklch(0.983 0.038 309.54)",
+    "dark": "oklch(0.216 0.043 309.54)",
+    "accent": "oklch(0.713 0.149 309.54)"
+  },
+  "acid": {
+    "light": "oklch(0.955 0.022 87.05)",
+    "dark": "oklch(0.225 0.028 87.05)",
+    "accent": "oklch(0.580 0.140 87.05)"
+  },
+  "atomicity": {
+    "light": "oklch(0.959 0.034 224.56)",
+    "dark": "oklch(0.234 0.053 224.56)",
+    "accent": "oklch(0.599 0.203 224.56)"
+  },
+  "isolation": {
+    "light": "oklch(0.963 0.018 2.07)",
+    "dark": "oklch(0.180 0.038 2.07)",
+    "accent": "oklch(0.618 0.194 2.07)"
+  },
+  "durability": {
+    "light": "oklch(0.967 0.030 139.57)",
+    "dark": "oklch(0.189 0.063 139.57)",
+    "accent": "oklch(0.637 0.185 139.57)"
+  },
+  "locking": {
+    "light": "oklch(0.971 0.042 277.08)",
+    "dark": "oklch(0.198 0.048 277.08)",
+    "accent": "oklch(0.656 0.176 277.08)"
+  },
+  "mvcc": {
+    "light": "oklch(0.975 0.026 54.59)",
+    "dark": "oklch(0.207 0.033 54.59)",
+    "accent": "oklch(0.675 0.167 54.59)"
+  },
+  "normalization": {
+    "light": "oklch(0.979 0.038 192.1)",
+    "dark": "oklch(0.216 0.058 192.1)",
+    "accent": "oklch(0.694 0.158 192.1)"
+  },
+  "denormalization": {
+    "light": "oklch(0.983 0.022 329.6)",
+    "dark": "oklch(0.225 0.043 329.6)",
+    "accent": "oklch(0.713 0.149 329.6)"
+  },
+  "distributed_system": {
+    "light": "oklch(0.955 0.034 107.11)",
+    "dark": "oklch(0.234 0.028 107.11)",
+    "accent": "oklch(0.580 0.140 107.11)"
+  },
+  "node": {
+    "light": "oklch(0.959 0.018 244.62)",
+    "dark": "oklch(0.180 0.053 244.62)",
+    "accent": "oklch(0.599 0.203 244.62)"
+  },
+  "cluster": {
+    "light": "oklch(0.963 0.030 22.13)",
+    "dark": "oklch(0.189 0.038 22.13)",
+    "accent": "oklch(0.618 0.194 22.13)"
+  },
+  "replica": {
+    "light": "oklch(0.967 0.042 159.64)",
+    "dark": "oklch(0.198 0.063 159.64)",
+    "accent": "oklch(0.637 0.185 159.64)"
+  },
+  "consensus": {
+    "light": "oklch(0.971 0.026 297.14)",
+    "dark": "oklch(0.207 0.048 297.14)",
+    "accent": "oklch(0.656 0.176 297.14)"
+  },
+  "raft": {
+    "light": "oklch(0.975 0.038 74.65)",
+    "dark": "oklch(0.216 0.033 74.65)",
+    "accent": "oklch(0.675 0.167 74.65)"
+  },
+  "fault_tolerance": {
+    "light": "oklch(0.979 0.022 212.16)",
+    "dark": "oklch(0.225 0.058 212.16)",
+    "accent": "oklch(0.694 0.158 212.16)"
+  },
+  "high_availability": {
+    "light": "oklch(0.983 0.034 349.67)",
+    "dark": "oklch(0.234 0.043 349.67)",
+    "accent": "oklch(0.713 0.149 349.67)"
+  },
+  "replication": {
+    "light": "oklch(0.955 0.018 127.17)",
+    "dark": "oklch(0.180 0.028 127.17)",
+    "accent": "oklch(0.580 0.140 127.17)"
+  },
+  "partitioning": {
+    "light": "oklch(0.959 0.030 264.68)",
+    "dark": "oklch(0.189 0.053 264.68)",
+    "accent": "oklch(0.599 0.203 264.68)"
+  },
+  "quorum": {
+    "light": "oklch(0.963 0.042 42.19)",
+    "dark": "oklch(0.198 0.038 42.19)",
+    "accent": "oklch(0.618 0.194 42.19)"
+  },
+  "eventual_consistency": {
+    "light": "oklch(0.967 0.026 179.7)",
+    "dark": "oklch(0.207 0.063 179.7)",
+    "accent": "oklch(0.637 0.185 179.7)"
+  },
+  "distributed_lock": {
+    "light": "oklch(0.971 0.038 317.2)",
+    "dark": "oklch(0.216 0.048 317.2)",
+    "accent": "oklch(0.656 0.176 317.2)"
+  },
+  "saga": {
+    "light": "oklch(0.975 0.022 94.71)",
+    "dark": "oklch(0.225 0.033 94.71)",
+    "accent": "oklch(0.675 0.167 94.71)"
+  },
+  "failover": {
+    "light": "oklch(0.979 0.034 232.22)",
+    "dark": "oklch(0.234 0.058 232.22)",
+    "accent": "oklch(0.694 0.158 232.22)"
+  },
+  "scalability": {
+    "light": "oklch(0.983 0.018 9.73)",
+    "dark": "oklch(0.180 0.043 9.73)",
+    "accent": "oklch(0.713 0.149 9.73)"
+  },
+  "vertical_scaling": {
+    "light": "oklch(0.955 0.030 147.24)",
+    "dark": "oklch(0.189 0.028 147.24)",
+    "accent": "oklch(0.580 0.140 147.24)"
+  },
+  "horizontal_scaling": {
+    "light": "oklch(0.959 0.042 284.74)",
+    "dark": "oklch(0.198 0.053 284.74)",
+    "accent": "oklch(0.599 0.203 284.74)"
+  },
+  "availability": {
+    "light": "oklch(0.963 0.026 62.25)",
+    "dark": "oklch(0.207 0.038 62.25)",
+    "accent": "oklch(0.618 0.194 62.25)"
+  },
+  "reliability": {
+    "light": "oklch(0.967 0.038 199.76)",
+    "dark": "oklch(0.216 0.063 199.76)",
+    "accent": "oklch(0.637 0.185 199.76)"
+  },
+  "latency": {
+    "light": "oklch(0.971 0.022 337.27)",
+    "dark": "oklch(0.225 0.048 337.27)",
+    "accent": "oklch(0.656 0.176 337.27)"
+  },
+  "throughput": {
+    "light": "oklch(0.975 0.034 114.77)",
+    "dark": "oklch(0.234 0.033 114.77)",
+    "accent": "oklch(0.675 0.167 114.77)"
+  },
+  "bottleneck": {
+    "light": "oklch(0.979 0.018 252.28)",
+    "dark": "oklch(0.180 0.058 252.28)",
+    "accent": "oklch(0.694 0.158 252.28)"
+  },
+  "microservices": {
+    "light": "oklch(0.983 0.030 29.79)",
+    "dark": "oklch(0.189 0.043 29.79)",
+    "accent": "oklch(0.713 0.149 29.79)"
+  },
+  "monolith": {
+    "light": "oklch(0.955 0.042 167.3)",
+    "dark": "oklch(0.198 0.028 167.3)",
+    "accent": "oklch(0.580 0.140 167.3)"
+  },
+  "api_gateway": {
+    "light": "oklch(0.959 0.026 304.81)",
+    "dark": "oklch(0.207 0.053 304.81)",
+    "accent": "oklch(0.599 0.203 304.81)"
+  },
+  "circuit_breaker": {
+    "light": "oklch(0.963 0.038 82.31)",
+    "dark": "oklch(0.216 0.038 82.31)",
+    "accent": "oklch(0.618 0.194 82.31)"
+  },
+  "retry": {
+    "light": "oklch(0.967 0.022 219.82)",
+    "dark": "oklch(0.225 0.063 219.82)",
+    "accent": "oklch(0.637 0.185 219.82)"
+  },
+  "exponential_backoff": {
+    "light": "oklch(0.971 0.034 357.33)",
+    "dark": "oklch(0.234 0.048 357.33)",
+    "accent": "oklch(0.656 0.176 357.33)"
+  },
+  "timeout": {
+    "light": "oklch(0.975 0.018 134.84)",
+    "dark": "oklch(0.180 0.033 134.84)",
+    "accent": "oklch(0.675 0.167 134.84)"
+  },
+  "consistent_hashing": {
+    "light": "oklch(0.979 0.030 272.34)",
+    "dark": "oklch(0.189 0.058 272.34)",
+    "accent": "oklch(0.694 0.158 272.34)"
+  },
+  "stateless": {
+    "light": "oklch(0.983 0.042 49.85)",
+    "dark": "oklch(0.198 0.043 49.85)",
+    "accent": "oklch(0.713 0.149 49.85)"
+  },
+  "observability": {
+    "light": "oklch(0.955 0.026 187.36)",
+    "dark": "oklch(0.207 0.028 187.36)",
+    "accent": "oklch(0.580 0.140 187.36)"
+  },
+  "cloud_computing": {
+    "light": "oklch(0.959 0.038 324.87)",
+    "dark": "oklch(0.216 0.053 324.87)",
+    "accent": "oklch(0.599 0.203 324.87)"
+  },
+  "virtual_machine": {
+    "light": "oklch(0.963 0.022 102.38)",
+    "dark": "oklch(0.225 0.038 102.38)",
+    "accent": "oklch(0.618 0.194 102.38)"
+  },
+  "hypervisor": {
+    "light": "oklch(0.967 0.034 239.88)",
+    "dark": "oklch(0.234 0.063 239.88)",
+    "accent": "oklch(0.637 0.185 239.88)"
+  },
+  "container": {
+    "light": "oklch(0.971 0.018 17.39)",
+    "dark": "oklch(0.180 0.048 17.39)",
+    "accent": "oklch(0.656 0.176 17.39)"
+  },
+  "serverless": {
+    "light": "oklch(0.975 0.030 154.9)",
+    "dark": "oklch(0.189 0.033 154.9)",
+    "accent": "oklch(0.675 0.167 154.9)"
+  },
+  "iaas": {
+    "light": "oklch(0.979 0.042 292.41)",
+    "dark": "oklch(0.198 0.058 292.41)",
+    "accent": "oklch(0.694 0.158 292.41)"
+  },
+  "paas": {
+    "light": "oklch(0.983 0.026 69.91)",
+    "dark": "oklch(0.207 0.043 69.91)",
+    "accent": "oklch(0.713 0.149 69.91)"
+  },
+  "saas": {
+    "light": "oklch(0.955 0.038 207.42)",
+    "dark": "oklch(0.216 0.028 207.42)",
+    "accent": "oklch(0.580 0.140 207.42)"
+  },
+  "faas": {
+    "light": "oklch(0.959 0.022 344.93)",
+    "dark": "oklch(0.225 0.053 344.93)",
+    "accent": "oklch(0.599 0.203 344.93)"
+  },
+  "autoscaling": {
+    "light": "oklch(0.963 0.034 122.44)",
+    "dark": "oklch(0.234 0.038 122.44)",
+    "accent": "oklch(0.618 0.194 122.44)"
+  },
+  "vpc": {
+    "light": "oklch(0.967 0.018 259.95)",
+    "dark": "oklch(0.180 0.063 259.95)",
+    "accent": "oklch(0.637 0.185 259.95)"
+  },
+  "iam": {
+    "light": "oklch(0.971 0.030 37.45)",
+    "dark": "oklch(0.189 0.048 37.45)",
+    "accent": "oklch(0.656 0.176 37.45)"
+  },
+  "docker": {
+    "light": "oklch(0.975 0.042 174.96)",
+    "dark": "oklch(0.198 0.033 174.96)",
+    "accent": "oklch(0.675 0.167 174.96)"
+  },
+  "docker_image": {
+    "light": "oklch(0.979 0.026 312.47)",
+    "dark": "oklch(0.207 0.058 312.47)",
+    "accent": "oklch(0.694 0.158 312.47)"
+  },
+  "dockerfile": {
+    "light": "oklch(0.983 0.038 89.98)",
+    "dark": "oklch(0.216 0.043 89.98)",
+    "accent": "oklch(0.713 0.149 89.98)"
+  },
+  "kubernetes": {
+    "light": "oklch(0.955 0.022 227.48)",
+    "dark": "oklch(0.225 0.028 227.48)",
+    "accent": "oklch(0.580 0.140 227.48)"
+  },
+  "pod": {
+    "light": "oklch(0.959 0.034 4.99)",
+    "dark": "oklch(0.234 0.053 4.99)",
+    "accent": "oklch(0.599 0.203 4.99)"
+  },
+  "deployment": {
+    "light": "oklch(0.963 0.018 142.5)",
+    "dark": "oklch(0.180 0.038 142.5)",
+    "accent": "oklch(0.618 0.194 142.5)"
+  },
+  "kubernetes_service": {
+    "light": "oklch(0.967 0.030 280.01)",
+    "dark": "oklch(0.189 0.063 280.01)",
+    "accent": "oklch(0.637 0.185 280.01)"
+  },
+  "ingress": {
+    "light": "oklch(0.971 0.042 57.52)",
+    "dark": "oklch(0.198 0.048 57.52)",
+    "accent": "oklch(0.656 0.176 57.52)"
+  },
+  "configmap": {
+    "light": "oklch(0.975 0.026 195.02)",
+    "dark": "oklch(0.207 0.033 195.02)",
+    "accent": "oklch(0.675 0.167 195.02)"
+  },
+  "kubernetes_secret": {
+    "light": "oklch(0.979 0.038 332.53)",
+    "dark": "oklch(0.216 0.058 332.53)",
+    "accent": "oklch(0.694 0.158 332.53)"
+  },
+  "version_control": {
+    "light": "oklch(0.983 0.022 110.04)",
+    "dark": "oklch(0.225 0.043 110.04)",
+    "accent": "oklch(0.713 0.149 110.04)"
+  },
+  "repository": {
+    "light": "oklch(0.955 0.034 247.55)",
+    "dark": "oklch(0.234 0.028 247.55)",
+    "accent": "oklch(0.580 0.140 247.55)"
+  },
+  "commit": {
+    "light": "oklch(0.959 0.018 25.05)",
+    "dark": "oklch(0.180 0.053 25.05)",
+    "accent": "oklch(0.599 0.203 25.05)"
+  },
+  "branch_git": {
+    "light": "oklch(0.963 0.030 162.56)",
+    "dark": "oklch(0.189 0.038 162.56)",
+    "accent": "oklch(0.618 0.194 162.56)"
+  },
+  "merge": {
+    "light": "oklch(0.967 0.042 300.07)",
+    "dark": "oklch(0.198 0.063 300.07)",
+    "accent": "oklch(0.637 0.185 300.07)"
+  },
+  "rebase": {
+    "light": "oklch(0.971 0.026 77.58)",
+    "dark": "oklch(0.207 0.048 77.58)",
+    "accent": "oklch(0.656 0.176 77.58)"
+  },
+  "cherry_pick": {
+    "light": "oklch(0.975 0.038 215.09)",
+    "dark": "oklch(0.216 0.033 215.09)",
+    "accent": "oklch(0.675 0.167 215.09)"
+  },
+  "clone": {
+    "light": "oklch(0.979 0.022 352.59)",
+    "dark": "oklch(0.225 0.058 352.59)",
+    "accent": "oklch(0.694 0.158 352.59)"
+  },
+  "fork_git": {
+    "light": "oklch(0.983 0.034 130.1)",
+    "dark": "oklch(0.234 0.043 130.1)",
+    "accent": "oklch(0.713 0.149 130.1)"
+  },
+  "push": {
+    "light": "oklch(0.955 0.018 267.61)",
+    "dark": "oklch(0.180 0.028 267.61)",
+    "accent": "oklch(0.580 0.140 267.61)"
+  },
+  "pull": {
+    "light": "oklch(0.959 0.030 45.12)",
+    "dark": "oklch(0.189 0.053 45.12)",
+    "accent": "oklch(0.599 0.203 45.12)"
+  },
+  "fetch": {
+    "light": "oklch(0.963 0.042 182.62)",
+    "dark": "oklch(0.198 0.038 182.62)",
+    "accent": "oklch(0.618 0.194 182.62)"
+  },
+  "head_git": {
+    "light": "oklch(0.967 0.026 320.13)",
+    "dark": "oklch(0.207 0.063 320.13)",
+    "accent": "oklch(0.637 0.185 320.13)"
+  },
+  "staging_area": {
+    "light": "oklch(0.971 0.038 97.64)",
+    "dark": "oklch(0.216 0.048 97.64)",
+    "accent": "oklch(0.656 0.176 97.64)"
+  },
+  "pull_request": {
+    "light": "oklch(0.975 0.022 235.15)",
+    "dark": "oklch(0.225 0.033 235.15)",
+    "accent": "oklch(0.675 0.167 235.15)"
+  },
+  "object": {
+    "light": "oklch(0.979 0.034 12.66)",
+    "dark": "oklch(0.234 0.058 12.66)",
+    "accent": "oklch(0.694 0.158 12.66)"
+  },
+  "class": {
+    "light": "oklch(0.983 0.018 150.16)",
+    "dark": "oklch(0.180 0.043 150.16)",
+    "accent": "oklch(0.713 0.149 150.16)"
+  },
+  "inheritance": {
+    "light": "oklch(0.955 0.030 287.67)",
+    "dark": "oklch(0.189 0.028 287.67)",
+    "accent": "oklch(0.580 0.140 287.67)"
+  },
+  "polymorphism": {
+    "light": "oklch(0.959 0.042 65.18)",
+    "dark": "oklch(0.198 0.053 65.18)",
+    "accent": "oklch(0.599 0.203 65.18)"
+  },
+  "encapsulation": {
+    "light": "oklch(0.963 0.026 202.69)",
+    "dark": "oklch(0.207 0.038 202.69)",
+    "accent": "oklch(0.618 0.194 202.69)"
+  },
+  "abstraction": {
+    "light": "oklch(0.967 0.038 340.19)",
+    "dark": "oklch(0.216 0.063 340.19)",
+    "accent": "oklch(0.637 0.185 340.19)"
+  },
+  "interface": {
+    "light": "oklch(0.971 0.022 117.7)",
+    "dark": "oklch(0.225 0.048 117.7)",
+    "accent": "oklch(0.656 0.176 117.7)"
+  },
+  "overriding": {
+    "light": "oklch(0.975 0.034 255.21)",
+    "dark": "oklch(0.234 0.033 255.21)",
+    "accent": "oklch(0.675 0.167 255.21)"
+  },
+  "overloading": {
+    "light": "oklch(0.979 0.018 32.72)",
+    "dark": "oklch(0.180 0.058 32.72)",
+    "accent": "oklch(0.694 0.158 32.72)"
+  },
+  "composition": {
+    "light": "oklch(0.983 0.030 170.23)",
+    "dark": "oklch(0.189 0.043 170.23)",
+    "accent": "oklch(0.713 0.149 170.23)"
+  },
+  "coupling": {
+    "light": "oklch(0.955 0.042 307.73)",
+    "dark": "oklch(0.198 0.028 307.73)",
+    "accent": "oklch(0.580 0.140 307.73)"
+  },
+  "cohesion": {
+    "light": "oklch(0.959 0.026 85.24)",
+    "dark": "oklch(0.207 0.053 85.24)",
+    "accent": "oklch(0.599 0.203 85.24)"
+  },
+  "solid": {
+    "light": "oklch(0.963 0.038 222.75)",
+    "dark": "oklch(0.216 0.038 222.75)",
+    "accent": "oklch(0.618 0.194 222.75)"
+  },
+  "async": {
+    "light": "oklch(0.967 0.022 0.26)",
+    "dark": "oklch(0.225 0.063 0.26)",
+    "accent": "oklch(0.637 0.185 0.26)"
+  },
+  "await": {
+    "light": "oklch(0.971 0.034 137.76)",
+    "dark": "oklch(0.234 0.048 137.76)",
+    "accent": "oklch(0.656 0.176 137.76)"
+  },
+  "promise": {
+    "light": "oklch(0.975 0.018 275.27)",
+    "dark": "oklch(0.180 0.033 275.27)",
+    "accent": "oklch(0.675 0.167 275.27)"
+  },
+  "blocking": {
+    "light": "oklch(0.979 0.030 52.78)",
+    "dark": "oklch(0.189 0.058 52.78)",
+    "accent": "oklch(0.694 0.158 52.78)"
+  },
+  "non_blocking": {
+    "light": "oklch(0.983 0.042 190.29)",
+    "dark": "oklch(0.198 0.043 190.29)",
+    "accent": "oklch(0.713 0.149 190.29)"
+  },
+  "atomic_operation": {
+    "light": "oklch(0.955 0.026 327.8)",
+    "dark": "oklch(0.207 0.028 327.8)",
+    "accent": "oklch(0.580 0.140 327.8)"
+  },
+  "thread_pool": {
+    "light": "oklch(0.959 0.038 105.3)",
+    "dark": "oklch(0.216 0.053 105.3)",
+    "accent": "oklch(0.599 0.203 105.3)"
+  },
+  "cybersecurity": {
+    "light": "oklch(0.963 0.022 242.81)",
+    "dark": "oklch(0.225 0.038 242.81)",
+    "accent": "oklch(0.618 0.194 242.81)"
+  },
+  "vulnerability": {
+    "light": "oklch(0.967 0.034 20.32)",
+    "dark": "oklch(0.234 0.063 20.32)",
+    "accent": "oklch(0.637 0.185 20.32)"
+  },
+  "encryption": {
+    "light": "oklch(0.971 0.018 157.83)",
+    "dark": "oklch(0.180 0.048 157.83)",
+    "accent": "oklch(0.656 0.176 157.83)"
+  },
+  "symmetric_encryption": {
+    "light": "oklch(0.975 0.030 295.33)",
+    "dark": "oklch(0.189 0.033 295.33)",
+    "accent": "oklch(0.675 0.167 295.33)"
+  },
+  "asymmetric_encryption": {
+    "light": "oklch(0.979 0.042 72.84)",
+    "dark": "oklch(0.198 0.058 72.84)",
+    "accent": "oklch(0.694 0.158 72.84)"
+  },
+  "hashing": {
+    "light": "oklch(0.983 0.026 210.35)",
+    "dark": "oklch(0.207 0.043 210.35)",
+    "accent": "oklch(0.713 0.149 210.35)"
+  },
+  "digital_signature": {
+    "light": "oklch(0.955 0.038 347.86)",
+    "dark": "oklch(0.216 0.028 347.86)",
+    "accent": "oklch(0.580 0.140 347.86)"
+  },
+  "xss": {
+    "light": "oklch(0.959 0.022 125.36)",
+    "dark": "oklch(0.225 0.053 125.36)",
+    "accent": "oklch(0.599 0.203 125.36)"
+  },
+  "csrf": {
+    "light": "oklch(0.963 0.034 262.87)",
+    "dark": "oklch(0.234 0.038 262.87)",
+    "accent": "oklch(0.618 0.194 262.87)"
+  },
+  "sql_injection": {
+    "light": "oklch(0.967 0.018 40.38)",
+    "dark": "oklch(0.180 0.063 40.38)",
+    "accent": "oklch(0.637 0.185 40.38)"
+  },
+  "least_privilege": {
+    "light": "oklch(0.971 0.030 177.89)",
+    "dark": "oklch(0.189 0.048 177.89)",
+    "accent": "oklch(0.656 0.176 177.89)"
+  },
+  "artificial_intelligence": {
+    "light": "oklch(0.975 0.042 315.4)",
+    "dark": "oklch(0.198 0.033 315.4)",
+    "accent": "oklch(0.675 0.167 315.4)"
+  },
+  "machine_learning": {
+    "light": "oklch(0.979 0.026 92.9)",
+    "dark": "oklch(0.207 0.058 92.9)",
+    "accent": "oklch(0.694 0.158 92.9)"
+  },
+  "deep_learning": {
+    "light": "oklch(0.983 0.038 230.41)",
+    "dark": "oklch(0.216 0.043 230.41)",
+    "accent": "oklch(0.713 0.149 230.41)"
+  },
+  "neural_network": {
+    "light": "oklch(0.955 0.022 7.92)",
+    "dark": "oklch(0.225 0.028 7.92)",
+    "accent": "oklch(0.580 0.140 7.92)"
+  },
+  "gradient_descent": {
+    "light": "oklch(0.959 0.034 145.43)",
+    "dark": "oklch(0.234 0.053 145.43)",
+    "accent": "oklch(0.599 0.203 145.43)"
+  },
+  "backpropagation": {
+    "light": "oklch(0.963 0.018 282.93)",
+    "dark": "oklch(0.180 0.038 282.93)",
+    "accent": "oklch(0.618 0.194 282.93)"
+  },
+  "training": {
+    "light": "oklch(0.967 0.030 60.44)",
+    "dark": "oklch(0.189 0.063 60.44)",
+    "accent": "oklch(0.637 0.185 60.44)"
+  },
+  "inference": {
+    "light": "oklch(0.971 0.042 197.95)",
+    "dark": "oklch(0.198 0.048 197.95)",
+    "accent": "oklch(0.656 0.176 197.95)"
+  },
+  "overfitting": {
+    "light": "oklch(0.975 0.026 335.46)",
+    "dark": "oklch(0.207 0.033 335.46)",
+    "accent": "oklch(0.675 0.167 335.46)"
+  },
+  "precision": {
+    "light": "oklch(0.979 0.038 112.97)",
+    "dark": "oklch(0.216 0.058 112.97)",
+    "accent": "oklch(0.694 0.158 112.97)"
+  },
+  "recall": {
+    "light": "oklch(0.983 0.022 250.47)",
+    "dark": "oklch(0.225 0.043 250.47)",
+    "accent": "oklch(0.713 0.149 250.47)"
+  },
+  "transformer": {
+    "light": "oklch(0.955 0.034 27.98)",
+    "dark": "oklch(0.234 0.028 27.98)",
+    "accent": "oklch(0.580 0.140 27.98)"
+  },
+  "attention": {
+    "light": "oklch(0.959 0.018 165.49)",
+    "dark": "oklch(0.180 0.053 165.49)",
+    "accent": "oklch(0.599 0.203 165.49)"
+  },
+  "token": {
+    "light": "oklch(0.963 0.030 303)",
+    "dark": "oklch(0.189 0.038 303)",
+    "accent": "oklch(0.618 0.194 303)"
+  },
+  "tokenizer": {
+    "light": "oklch(0.967 0.042 80.5)",
+    "dark": "oklch(0.198 0.063 80.5)",
+    "accent": "oklch(0.637 0.185 80.5)"
+  },
+  "embedding": {
+    "light": "oklch(0.971 0.026 218.01)",
+    "dark": "oklch(0.207 0.048 218.01)",
+    "accent": "oklch(0.656 0.176 218.01)"
+  },
+  "context_window": {
+    "light": "oklch(0.975 0.038 355.52)",
+    "dark": "oklch(0.216 0.033 355.52)",
+    "accent": "oklch(0.675 0.167 355.52)"
+  },
+  "prompt": {
+    "light": "oklch(0.979 0.022 133.03)",
+    "dark": "oklch(0.225 0.058 133.03)",
+    "accent": "oklch(0.694 0.158 133.03)"
+  },
+  "hallucination": {
+    "light": "oklch(0.983 0.034 270.54)",
+    "dark": "oklch(0.234 0.043 270.54)",
+    "accent": "oklch(0.713 0.149 270.54)"
+  },
+  "fine_tuning": {
+    "light": "oklch(0.955 0.018 48.04)",
+    "dark": "oklch(0.180 0.028 48.04)",
+    "accent": "oklch(0.580 0.140 48.04)"
+  },
+  "rag": {
+    "light": "oklch(0.959 0.030 185.55)",
+    "dark": "oklch(0.189 0.053 185.55)",
+    "accent": "oklch(0.599 0.203 185.55)"
+  },
+  "vector_database": {
+    "light": "oklch(0.963 0.042 323.06)",
+    "dark": "oklch(0.198 0.038 323.06)",
+    "accent": "oklch(0.618 0.194 323.06)"
+  },
+  "agent": {
+    "light": "oklch(0.967 0.026 100.57)",
+    "dark": "oklch(0.207 0.063 100.57)",
+    "accent": "oklch(0.637 0.185 100.57)"
+  },
+  "tool_calling": {
+    "light": "oklch(0.971 0.038 238.07)",
+    "dark": "oklch(0.216 0.048 238.07)",
+    "accent": "oklch(0.656 0.176 238.07)"
+  },
+  "mcp": {
+    "light": "oklch(0.975 0.022 15.58)",
+    "dark": "oklch(0.225 0.033 15.58)",
+    "accent": "oklch(0.675 0.167 15.58)"
+  },
+  "bit": {
+    "light": "oklch(0.979 0.034 153.09)",
+    "dark": "oklch(0.234 0.058 153.09)",
+    "accent": "oklch(0.694 0.158 153.09)"
+  },
+  "byte": {
+    "light": "oklch(0.983 0.018 290.6)",
+    "dark": "oklch(0.180 0.043 290.6)",
+    "accent": "oklch(0.713 0.149 290.6)"
+  },
+  "binary": {
+    "light": "oklch(0.955 0.030 68.11)",
+    "dark": "oklch(0.189 0.028 68.11)",
+    "accent": "oklch(0.580 0.140 68.11)"
+  },
+  "hexadecimal": {
+    "light": "oklch(0.959 0.042 205.61)",
+    "dark": "oklch(0.198 0.053 205.61)",
+    "accent": "oklch(0.599 0.203 205.61)"
+  },
+  "pointer": {
+    "light": "oklch(0.963 0.026 343.12)",
+    "dark": "oklch(0.207 0.038 343.12)",
+    "accent": "oklch(0.618 0.194 343.12)"
+  },
+  "reference": {
+    "light": "oklch(0.967 0.038 120.63)",
+    "dark": "oklch(0.216 0.063 120.63)",
+    "accent": "oklch(0.637 0.185 120.63)"
+  },
+  "memory_leak": {
+    "light": "oklch(0.971 0.022 258.14)",
+    "dark": "oklch(0.225 0.048 258.14)",
+    "accent": "oklch(0.656 0.176 258.14)"
+  },
+  "dangling_pointer": {
+    "light": "oklch(0.975 0.034 35.64)",
+    "dark": "oklch(0.234 0.033 35.64)",
+    "accent": "oklch(0.675 0.167 35.64)"
+  },
+  "null_pointer": {
+    "light": "oklch(0.979 0.018 173.15)",
+    "dark": "oklch(0.180 0.058 173.15)",
+    "accent": "oklch(0.694 0.158 173.15)"
+  },
+  "segmentation_fault": {
+    "light": "oklch(0.983 0.030 310.66)",
+    "dark": "oklch(0.189 0.043 310.66)",
+    "accent": "oklch(0.713 0.149 310.66)"
+  },
+  "shell": {
+    "light": "oklch(0.955 0.042 88.17)",
+    "dark": "oklch(0.198 0.028 88.17)",
+    "accent": "oklch(0.580 0.140 88.17)"
+  },
+  "terminal": {
+    "light": "oklch(0.959 0.026 225.68)",
+    "dark": "oklch(0.207 0.053 225.68)",
+    "accent": "oklch(0.599 0.203 225.68)"
+  },
+  "bash": {
+    "light": "oklch(0.963 0.038 3.18)",
+    "dark": "oklch(0.216 0.038 3.18)",
+    "accent": "oklch(0.618 0.194 3.18)"
+  },
+  "pid": {
+    "light": "oklch(0.967 0.022 140.69)",
+    "dark": "oklch(0.225 0.063 140.69)",
+    "accent": "oklch(0.637 0.185 140.69)"
+  },
+  "fork": {
+    "light": "oklch(0.971 0.034 278.2)",
+    "dark": "oklch(0.234 0.048 278.2)",
+    "accent": "oklch(0.656 0.176 278.2)"
+  },
+  "exec": {
+    "light": "oklch(0.975 0.018 55.71)",
+    "dark": "oklch(0.180 0.033 55.71)",
+    "accent": "oklch(0.675 0.167 55.71)"
+  },
+  "daemon": {
+    "light": "oklch(0.979 0.030 193.21)",
+    "dark": "oklch(0.189 0.058 193.21)",
+    "accent": "oklch(0.694 0.158 193.21)"
+  },
+  "stdin": {
+    "light": "oklch(0.983 0.042 330.72)",
+    "dark": "oklch(0.198 0.043 330.72)",
+    "accent": "oklch(0.713 0.149 330.72)"
+  },
+  "stdout": {
+    "light": "oklch(0.955 0.026 108.23)",
+    "dark": "oklch(0.207 0.028 108.23)",
+    "accent": "oklch(0.580 0.140 108.23)"
+  },
+  "stderr": {
+    "light": "oklch(0.959 0.038 245.74)",
+    "dark": "oklch(0.216 0.053 245.74)",
+    "accent": "oklch(0.599 0.203 245.74)"
+  },
+  "environment_variable": {
+    "light": "oklch(0.963 0.022 23.25)",
+    "dark": "oklch(0.225 0.038 23.25)",
+    "accent": "oklch(0.618 0.194 23.25)"
+  }
+}
